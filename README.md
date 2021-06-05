@@ -24,4 +24,4 @@ Q: How do I get my server IP?
 A: Go to your command prompt and type in "ipconfig" then your IPv4 should be the IP of the server.
 
 # How To Use
-1. You will need 1.4.0.5 terraria, you can get this by downloading Depot [Downloader(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWRKbU9JVlRQOEVfM0ZpZnlRNkg0SkhQMy1zQXxBQ3Jtc0tuRHdwUURTbC15cEluRWc0R0dYdTFjZmFTcWxvU0ptSnB6amVTRnBORFd0TDdhSWxKRjMxazBWa28wS3dROHY2R296b1pFSGs3cE9Ea1VSOXQ5R08tSEtCckc1UVd6bnB4LTFHaUIyOFZXZkJfRkMzcw&q=https%3A%2F%2Fgithub.com%2FSteamRE%2FDepotDownloader%2Freleases%2Ftag%2FDepotDownloader_2.3.6)]
+1. You will need 1.4.0.5 terraria, you can get this by downloading Depot [Downloader https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWRKbU9JVlRQOEVfM0ZpZnlRNkg0SkhQMy1zQXxBQ3Jtc0tuRHdwUURTbC15cEluRWc0R0dYdTFjZmFTcWxvU0ptSnB6amVTRnBORFd0TDdhSWxKRjMxazBWa28wS3dROHY2R296b1pFSGs3cE9Ea1VSOXQ5R08tSEtCckc1UVd6bnB4LTFHaUIyOFZXZkJfRkMzcw&q=https%3A%2F%2Fgithub.com%2FSteamRE%2FDepotDownloader%2Freleases%2Ftag%2FDepotDownloader_2.3.6]
