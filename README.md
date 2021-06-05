@@ -7,7 +7,7 @@
 [![Download the Server](https://img.shields.io/badge/download-server-brightgreen?style=for-the-badge "Download")]( "Download")
 ![Total Downloads](https://img.shields.io/github/downloads/PringleCPP/Wisp-Terraria-Crossplay-Server/total?style=for-the-badge)
 [![Code Issues](https://img.shields.io/github/issues/PringleCPP/Wisp-Terraria-Crossplay-Server?color=red&label=Code%20Issues&style=for-the-badge)](https://google.com)
-![Last Commit](https://img.shields.io/github/last-commitPringleCPP/Wisp-Terraria-Crossplay-Server?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/PringleCPP/Wisp-Terraria-Crossplay-Server?style=for-the-badge)
 
 # Wisp Terraria Crossplay Server
 
