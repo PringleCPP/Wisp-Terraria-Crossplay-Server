@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://cdn.discordapp.com/attachments/850527489075970108/850758143524732938/Wisp_Logo.png" align="center" alt="Wisp" />
  <h2 align="center">GitHub Wisp</h2>
- <p align="center">Portable Terraria Server that doesn't require Steam!</p>
+ <p align="center">Portable Cross Platform Terraria Server that doesn't require Steam!</p>
 </p>
 
 [![Download the Server](https://img.shields.io/badge/download-server-brightgreen?style=for-the-badge "Download")]( "Download")
